@@ -1,2 +1,2 @@
 # gd-clone
-Please help i am obsessed with this game- anyway
+Clone of the game of the game Geometry dash :)
